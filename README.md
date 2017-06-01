@@ -2,4 +2,4 @@
 A simple contact list using MEAN stack  [Angular 2]
 
 
-screenshot.png
+angular-contactlist/ContactList.png
